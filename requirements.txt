@@ -1,0 +1,8 @@
+numpy
+pandas
+tensorflow
+tensorflow
+flask
+PILLOW
+Flask
+jinja2
